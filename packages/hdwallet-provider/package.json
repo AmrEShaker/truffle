@@ -1,5 +1,5 @@
 {
-  "name": "@truffle/hdwallet-provider",
+  "name": "@truffle/hdwallet-provider-websocket-provider",
   "description": "HD Wallet-enabled Web3 provider",
   "license": "MIT",
   "author": "Tim Coulter <tim@trufflesuite.com>",
